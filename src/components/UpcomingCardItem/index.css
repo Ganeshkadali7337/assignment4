@@ -1,0 +1,37 @@
+.imgs2 {
+  width: 290px;
+}
+.list-item2 {
+  width: 290px;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #b0babf;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  position: relative;
+}
+.city2 {
+  margin-left: 20px;
+  position: absolute;
+  top: 50%;
+
+  font-size: 12px;
+  color: white;
+}
+.city4 {
+  font-size: 12px;
+  color: black;
+  margin-left: 20px;
+}
+.heading4 {
+  color: black;
+  overflow: hidden;
+  margin-left: 20px;
+  text-overflow: ellipsis;
+}
+.container5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}

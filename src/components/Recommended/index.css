@@ -1,0 +1,20 @@
+.reco-list {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  width: 100%;
+  margin-top: 60px;
+}
+.cards {
+  overflow: auto;
+  white-space: nowrap;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-self: flex-end;
+  -ms-overflow-style: none;
+  scrollbar-width: 1px;
+  scroll-padding: 0px;
+  scroll-margin: 0px;
+}

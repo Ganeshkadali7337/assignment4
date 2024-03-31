@@ -1,0 +1,14 @@
+.cards2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.reco-list2 {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}

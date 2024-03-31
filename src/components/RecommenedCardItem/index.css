@@ -1,0 +1,35 @@
+.reco-list li {
+  color: black;
+}
+.card-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 250px;
+  position: absolute;
+  bottom: 5%;
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.heading3 {
+  font-size: 16px;
+  font-weight: 400;
+  width: 70px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#city {
+  font-size: 12px;
+  color: white;
+}
+.list-item {
+  width: 800px;
+  height: 300px;
+  position: relative;
+}
+.imgs {
+  width: 250px;
+  height: 100%;
+}
