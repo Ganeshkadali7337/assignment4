@@ -1,2 +1,1 @@
-# assignment6
-# assignment11
+the project title is BookUsNow , this assignment is developed using react.js, i have implemented navbar section , recommended shows section, upcoming shows section. this is a responsive layout for mobile and desktop views
